@@ -1,4 +1,6 @@
 arduinio
 ========
 
-Tools for arduino développement.
+Tools for arduino development.
+
+Documentation available at [http://jerome-quere.github.io/arduinio/](http://jerome-quere.github.io/arduinio/).

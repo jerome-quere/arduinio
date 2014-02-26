@@ -1,0 +1,16 @@
+{
+    "title": "Arduinio",
+    "tagline": "Library to make arduino developement easier",
+    "docs_path": "docs",
+    "image": "img/app.jpg",
+    "theme": "violet",
+    "template":"default",
+    "float":false,
+    "date_modified": true,
+    "repo": "jerome-quere/arduinio",
+    "twitter": ["jeromequere"],
+    "links" : {
+	"GitHub Repo": "https://github.com/jerome-quere/arduinio",
+	"Made by Jerome Quere": "http://linkedin.com/in/querejerome/"
+    }
+}
